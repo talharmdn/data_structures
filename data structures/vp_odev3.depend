@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1639266844 source:c:\users\talha\desktop\universite\bursa teknik\2. sinif 1. d÷nem\veri yapilari\odevler\odev3\vp_odev3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodes.h"
+
+1639836218 c:\users\talha\desktop\universite\bursa teknik\2. sinif 1. d÷nem\veri yapilari\odevler\odev3\vp_odev3\nodes.h
+
+1639266844 source:c:\users\talha\desktop\universite\bursa teknik\2. sinif 1. d÷nem\veri yapilari\odevler\odev3\vp_odev3-talcha ramadan 20360859104\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nodes.h"
+
+1640637213 c:\users\talha\desktop\universite\bursa teknik\2. sinif 1. d÷nem\veri yapilari\odevler\odev3\vp_odev3-talcha ramadan 20360859104\nodes.h
+
